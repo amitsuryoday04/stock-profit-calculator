@@ -2,6 +2,9 @@
 
 A simple and responsive Stock Profit Calculator built using HTML, CSS, and JavaScript.
 
+## Link
+- https://amitsuryoday04.github.io/stock-profit-calculator/
+
 ## Features
 - Calculate Stock Profit/Loss
 - Profit Percentage
