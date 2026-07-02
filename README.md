@@ -31,7 +31,7 @@ A simple and responsive Stock Profit Calculator built using HTML, CSS, and JavaS
 5. View your Profit/Loss and Profit Percentage.
 
 ## Author
-**Amit Suryoday**
+**Amit shinde**
 
 ## License
 MIT License
